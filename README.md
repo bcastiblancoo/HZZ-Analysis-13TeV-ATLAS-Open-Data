@@ -1,5 +1,5 @@
 # HZZ-Analysis-13TeV-ATLAS-Open-Data
-This repository contains all the necessary material to carry out the HZZ analysis for the 13 TeV ATLAS Open Data Release, as well as its results (Distribution Plots).
+This repository contains all the necessary material to carry out the H--->ZZ analysis for the 13 TeV ATLAS Open Data Release, as well as its results (Distribution Plots).
 
 The code is mainly based on the "Python uproot framework" of the ATLAS Open Data 13 TeV Documentation (http://opendata.atlas.cern/release/2020/documentation/index.html). 
 

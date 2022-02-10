@@ -5,7 +5,7 @@ The code is mainly based on the "Python uproot framework" of the ATLAS Open Data
 
 Event selection criteria and plots have been improved and optimized by Brayan E. Castiblanco.
 
-In the "Code" folder is shown the analysis code and the auxiliar input file "infofile.py" which contains the information related to the MC samples for the "4lep" sample. Notice that the analysis code was written and run in Google Colab, so it shows the possibilities of implementing more physics analysis using this environment. Furthermore, the computational capacity of this environment reduces processing times since its notebooks run enterily in the Google cloud.
+In the "Code" folder is shown the analysis code and the auxiliar input file "infofile.py" which contains all the information related to the MC samples for the "4lep" sample. Notice that the analysis code was written and run in Google Colab, so it shows the possibilities of implementing more physics analysis using this environment. Furthermore, the computational capacity of this environment reduces processing times since its notebooks run enterily in the Google cloud.
 
 In the "Distributions plots" folder all the graphs obtained from the analysis are stored. Notice that all graphics for the H--->ZZ analysis from the ATLAS Open Data 13 TeV release are reproduced. Some additional distributions are shown as well. 
 
